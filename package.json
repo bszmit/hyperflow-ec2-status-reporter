@@ -19,8 +19,10 @@
   "dependencies": {
     "aws-sdk": "2.247.1",
     "disk-stat": "^1.0.4",
+    "express": "^4.16.4",
     "influxdb-nodejs": "2.7.6",
     "os-utils": "0.0.14",
+    "prom-client": "^11.2.1",
     "systeminformation": "^3.42.3"
   }
 }
